@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 精選專案 (Featured Projects)
+## 🚀 精選專案
 
 ### 1. 🀀 [Mahjong Quant - 麻將數據紀錄與分析社群平台](https://mahjong-quant.netlify.app)
 * **Tech Stack**: `Vite` | `HTML/CSS` | `Firebase Realtime DB` | `AI Agent`
@@ -23,14 +23,14 @@
 
 ---
 
-## 🛠️ 專業技能 (Skills & Competencies)
+## 🛠️ 技能＆經歷
 
 * **AI開發**：Prompt Engineering、AI Agent 協作開發、Python 自動化、Vite 前端、Firebase、Git
 * **社群與營運**：內容企劃、交易觀點創作、直播教學、用戶痛點轉譯、社群生態維運 (Discord/Telegram/IG)
 
 ---
 
-## 🎧 媒體收聽與自讀書籍 (Interests & Reading)
+## 🎧 媒體收聽與自讀書籍
 
 * **Podcast**：《股癌》、《曼報》、《股市隱者》
 * **自讀書籍**：《致富心態》、《反脆弱》、《納瓦爾寶典》、《超級績效》、《灰階思考》等

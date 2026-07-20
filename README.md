@@ -1,4 +1,4 @@
-# Hi there, I'm Stephen Chang (張道凱) 👋
+# Hi there, I'm Stephen Chang (張道凱)
 
 **元智大學 國際企業學系 學士**  
 **元智大學 財務金融學系 碩士在讀**  

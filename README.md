@@ -9,15 +9,15 @@
 
 精選專案
 
-### 1.[Mahjong Quant - 麻將數據紀錄與分析社群平台](https://mahjong-quant.netlify.app)
+### 1. [Mahjong Quant - 麻將數據紀錄與分析社群平台](https://mahjong-quant.netlify.app)
 * **Tech Stack**: `Vite` | `HTML/CSS` | `Firebase Realtime DB` | `AI Agent`
 * **簡介**：解決麻將戰績死板的數字紀錄與缺少勝率分析的痛點，轉譯為「累積戰績走勢圖」、「量化分析統計」與「社群功能」等產品需求。透過 AI Agent 協作完成 PoC 前端介面與 Firebase 資料庫串接。
 
-### 2.[US Stock Auto Bot - 美股量化推播系統]
+### 2. [US Stock Auto Bot - 美股量化推播系統]
 * **Tech Stack**: `Python` | `Financial APIs` | `Discord API` | `AI Agent`
 * **簡介**：解決手動找尋強勢標的的痛點，透過AI協助抓取數據，撰寫 Python 自動化篩選腳本與串接 Discord API 每日定時推播。
 
-### 3.[VIX Strategy Quantitative Backtest - VIX 恐慌指數買進策略量化回測]
+### 3. [VIX Strategy Quantitative Backtest - VIX 恐慌指數買進策略量化回測]
 * **Tech Stack**: `Python` | `Matplotlib` | `Financial Backtesting` | `AI Agent`
 * **簡介**：在完全無程式底子的情況下，透過 AI Agent 協作撰寫 Python 回測腳本，撈取 2010–2025 年數據驗證恐慌低點買進策略，繪製機率密度與 Drawdown 分析圖表。
 

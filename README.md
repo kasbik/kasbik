@@ -2,7 +2,7 @@
 
 🎓 **元智大學 國際企業學系 學士**  
 🎓 **元智大學 財務金融學系 碩士在讀**  
-📈 **4 年市場交易實務經驗** | **2 年投資社群內容經營經驗**  
+📈 **5 年市場交易實務經驗** | **3 年投資社群內容經營經驗**  
 🤖 **AI First 實踐者**：擅長運用 AI Agent 克服程式開發門檻，將用戶痛點轉化為自動化工具與數位產品需求。
 
 ---
@@ -11,7 +11,7 @@
 
 ### 1. 🀀 [Mahjong Quant - 麻將數據紀錄與分析社群平台](https://mahjong-quant.netlify.app)
 * **Tech Stack**: `Vite` | `HTML/CSS` | `Firebase Realtime DB` | `AI Agent`
-* **簡介**：將線下麻將競賽死板的數字紀錄與缺少勝率分析的痛點，轉譯為「累積戰績走勢圖」、「歷史統計」與「勝率雷達圖」等產品需求。透過 AI Agent 協作完成 PoC 前端介面與 Firebase 資料庫串接。
+* **簡介**：解決麻將戰績死板的數字紀錄與缺少勝率分析的痛點，轉譯為「累積戰績走勢圖」、「量化分析統計」與「社群功能」等產品需求。透過 AI Agent 協作完成 PoC 前端介面與 Firebase 資料庫串接。
 
 ### 2. 📊 [US Stock Auto Bot - 美股量化推播系統]
 * **Tech Stack**: `Python` | `Financial APIs` | `Discord API` | `AI Agent`
